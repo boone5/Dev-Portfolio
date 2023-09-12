@@ -1,9 +1,15 @@
 # Development Portfolio
 ### Hello ! 🙋‍♂️ Below are some passion projects I pursue/pursued in my freetime.
 
+## Movie Night
+
+#### Status: _In Progress_ 👀
+
+This app is a work in progress and I plan to update this page when I get to the last 90% of development. My plans are for it to be my first app on the App Store! 🤞
+
 ## Dessert Explorer
 
-#### Status: _Completed_
+#### Status: _Completed_ ✅
 
 Dessert Explorer is a simple app I built to show desserts and their respective details. This app utilizes TheMealDB API where I hit certain endpoints to retrieve information about desserts and their details. To gain some experience with cacheing, I implemented an Image Cache with the URLs received back from the API. I also wrote some Unit Tests to ensure my network layer is working as expected.
 
@@ -23,7 +29,7 @@ https://github.com/boone5/Dev-Portfolio/assets/67722664/fb8fc939-2fd2-4d09-91ef-
 
 ## Rocket League App
 
-#### Status: _Abandoned_
+#### Status: _Abandoned_ 😳
 
 This is an app based off one of my favorite games (Rocket League) that I actually got pretty good at and played at a semi-professional level in college! 🚀
 
