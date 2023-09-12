@@ -33,7 +33,7 @@ For this project I chose to target iOS 15 and develop in Xcode 14.3.1. There's r
 
 This is an app based off one of my favorite games (Rocket League) that I actually got pretty good at and played at a semi-professional level in college! 🚀
 
-I approached this as a passion project and built out a surface level app with mocked data from the designs I created in Figma. Unfortnuately, it turned into a lot of hoops to jump through to gain API access to their data so I haulted development 😞 One new technology I got experience with was Xcodegen where I used YML to help with building my project between multiple branches. Was fun to build out and design while it lasted!
+I approached this as a passion project and built out a surface level app with mocked data from the designs I created in Figma. Unfortnuately, it turned into a lot of hoops to jump through to gain API access to their data so I haulted development 😞 One new technology I got experience with was Xcodegen and YML to help with building my project between multiple branches. Was fun to build out and design while it lasted!
 
 #### Figma
 <img width="215" alt="Screenshot 2023-09-12 at 9 47 13 AM" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/ae4efc2d-9a3c-466d-b7ae-a8e33ba8dddb"><img width="648" alt="Screenshot 2023-09-12 at 9 47 07 AM" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/759b069d-0355-4810-94c2-eaf84307b47f">
