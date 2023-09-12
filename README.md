@@ -1,5 +1,5 @@
 # Development Portfolio
-### Hello ! 🙋‍♂️ Below are some personal projects I pursue in my freetime.
+### Hello ! 🙋‍♂️ Below are some passion projects I pursue/pursued in my freetime.
 
 ## Dessert Explorer
 
