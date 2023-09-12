@@ -15,9 +15,9 @@ Dessert Explorer is a simple app I built to show desserts and their respective d
 
 For this project I chose to target iOS 15 and develop in Xcode 14.3.1. There's room for improvement here, but it was a fun project to get my feet wet with more technologies and a complicated API.
 
-https://github.com/boone5/Dev-Portfolio/assets/67722664/97206090-bc2b-494d-9610-054bc0bb6bae
+<img width="215" alt="Screenshot 2023-09-12 at 10 00 15 AM" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/12e054b8-539b-4136-a108-5be0c82f7c77"><img width="215" alt="Screenshot 2023-09-12 at 10 00 45 AM" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/329f10f8-66aa-4f1e-ac84-7f5d31a0f39d">
 
-https://github.com/boone5/Dev-Portfolio/assets/67722664/fb8fc939-2fd2-4d09-91ef-b0caeb43367a
+
 
 ### Technologies
 - SwiftUI
