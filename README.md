@@ -5,7 +5,10 @@
 
 #### Status: _In Progress_
 
-This app is a work in progress and I plan to update this page when I get to the last 90% of development. My plans are for it to be my first app on the App Store! 🤞
+This app is a work in progress. Here is a link to the most up-to-date [branch](https://github.com/boone5/MovieNight/tree/feature-temp/MovieNight).
+
+### Methodologies
+- SwiftUI, URLSession, CoreData, NSCache, Pagination, Image Caching with NSCache, MVVM
 
 ## Dessert Explorer
 
@@ -17,15 +20,8 @@ For this project I chose to target iOS 15 and develop in Xcode 14.3.1. There's r
 
 <img width="215" alt="Screenshot 2023-09-12 at 10 00 15 AM" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/12e054b8-539b-4136-a108-5be0c82f7c77"><img width="215" alt="Screenshot 2023-09-12 at 10 00 45 AM" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/329f10f8-66aa-4f1e-ac84-7f5d31a0f39d">
 
-
-
-### Technologies
-- SwiftUI
-- URLSession
-- JSONSerialization
-- NSCache
-- XCTest
-- MVVM
+### Methodologies
+- SwiftUI, URLSession, JSONSerialization, Image Caching with NSCache, XCTest, MVVM
 
 <!--## Rocket League App
 
