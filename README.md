@@ -2,13 +2,24 @@
 ### Hello ! 🙋‍♂️ Below are some passion projects I pursue/pursued in my freetime.
 
 ## Movie Night
-
-#### Status: _In Progress_
-
 This app is a work in progress. Here is a link to the most up-to-date [branch](https://github.com/boone5/MovieNight/tree/feature-temp/MovieNight).
 
+## Design Mock ups
+
+#### Detail View
+<img width="215" alt="DetailView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/b90463f0-3f62-46f0-aabb-66e00d2e9a25">
+<img width="215" alt="SheetView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/6ff3e808-e3c3-427f-87d3-baf2013f6cbc">
+
+#### Sheet States
+
+<img width="215" alt="1Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/b4e72738-2c84-44a9-b7cd-556e69a85246">
+<img width="215" alt="2Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/8dc37a18-beca-4eb6-be40-531379d6b914">
+<img width="215" alt="3Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/1265eb1d-c149-4cef-a327-7a75a8ad97e9">
+<img width="215" alt="4Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/f1b41a3a-d7a9-4e77-ba3c-6cef01c5e0f0">
+<img width="215" alt="5Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/db1823ba-ef7c-4d3e-88b2-3e18e3919690">
+
 ### Methodologies
-- SwiftUI, URLSession, CoreData, NSCache, Pagination, Image Caching with NSCache, MVVM
+- SwiftUI, Figma, CoreData, Pagination, Image Caching with NSCache
 
 ## Dessert Explorer
 
