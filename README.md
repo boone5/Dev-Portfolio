@@ -6,20 +6,16 @@ This app is a work in progress. Here is a link to the most up-to-date [branch](h
 
 ## Design Mock ups
 
+#### Library
+<img width="215" alt="Library" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/4f8f9952-d0a8-4c96-ba6a-d0aee0c503d5">
+
 #### Detail View
-<img width="215" alt="DetailView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/3de272fb-d3a0-45d8-9561-468d5b5500c3">
-<img width="215" alt="SheetView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/bfa3638a-6486-47d7-bcac-973f5a72240b">
-
-#### Sheet States
-
-<img width="215" alt="1Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/23447b77-0285-4be4-b37d-cf8d4bbba977">
-<img width="215" alt="2Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/05211fcd-1624-4604-9c03-bfd63c3e5f944">
-<img width="215" alt="3Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/e6acf5e6-1012-41bf-99f2-a58d520e6c17">
-<img width="215" alt="4Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/1ca617a1-c091-4617-b205-6bdc627e8d91">
-<img width="215" alt="5Star" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/19c1eaae-8dc8-4d11-97dc-4d314234ff88">
+<img width="215" alt="DetailView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/36266909-a953-4d8e-b543-bdc7d5957416">
+<img width="215" alt="SheetView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/d3832100-b698-421d-b512-94b1c46af3f2">
+<img width="215" alt="DetailViewRated" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/3e4bc103-c3c7-42cd-a7f4-8a97f303b95c">
 
 ### Methodologies
-- SwiftUI, Figma, CoreData, Pagination, Image Caching with NSCache
+- SwiftUI, URLSession, CoreData, Codable, Pagination, Image Caching with NSCache, Figma
 
 ## Dessert Explorer
 
