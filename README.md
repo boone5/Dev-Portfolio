@@ -1,5 +1,5 @@
 # Development Portfolio
-### Hello ! 🙋‍♂️ Below are some passion projects I pursue/pursued in my freetime.
+### Hello ! 🙋‍♂️ Below are some passion projects I pursue in my freetime.
 
 ## Movie Night
 This app is a work in progress. Here is a link to the most up-to-date [branch](https://github.com/boone5/MovieNight/tree/feature-temp/MovieNight).
