@@ -8,10 +8,10 @@ This app is a work in progress. Here is a link to the most up-to-date [branch](h
 - SwiftUI, URLSession, CoreData, Codable, Pagination, Image Caching with NSCache, Figma
 
 #### Thus far...
-<img width="215" alt="Library" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/4f8f9952-d0a8-4c96-ba6a-d0aee0c503d5">
-<img width="215" alt="DetailView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/36266909-a953-4d8e-b543-bdc7d5957416">
-<img width="215" alt="SheetView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/d3832100-b698-421d-b512-94b1c46af3f2">
-<img width="215" alt="DetailViewRated" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/3e4bc103-c3c7-42cd-a7f4-8a97f303b95c">
+<img width="215" alt="Library" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/9be93550-8ba2-4464-a7ff-29e6bf06bf81">
+<img width="215" alt="DetailView" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/fe1cd40b-468d-43bf-86ed-aa37d44df895">
+<img width="215" alt="Explore" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/d1e5735c-f0a5-406d-8a95-ce7fc8f5fcaf">
+<img width="215" alt="Social" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/1dc51bcd-1616-4d8d-835d-6edae9afd925">
 
 ## Dessert Explorer
 
