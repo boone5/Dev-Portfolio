@@ -1,11 +1,11 @@
 # Development Portfolio
-### Hello ! 🙋‍♂️ Below are some passion projects I pursue in my freetime.
+### Below are some passion projects I pursue in my freetime.
 
 ## Movie Night
-This app is a work in progress. Here is a link to the most up-to-date [branch](https://github.com/boone5/MovieNight/tree/feature-temp/MovieNight).
+This app is a work in progress.
 
-### Methodologies
-- SwiftUI, URLSession, CoreData, Codable, Pagination, Image Caching with NSCache, Figma
+### Tech
+TCA, SwiftUI, CoreData, Figma
 
 #### Thus far...
 <img width="215" alt="Library" src="https://github.com/boone5/Dev-Portfolio/assets/67722664/9be93550-8ba2-4464-a7ff-29e6bf06bf81">
